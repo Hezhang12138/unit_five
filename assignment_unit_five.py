@@ -1,3 +1,7 @@
+# assignment_unit_five
+# 10/18/2018
+# "this is an interesting game, and I finally understand how loop exactly works"
+
 import random
 
 
